@@ -6,8 +6,8 @@ Fully Convolutional Neural Network to localize the text in a image using EAST Re
 # In order to use bbox_text.py file you to create the Environment <h1> 
 
 
+### 1.use conda create -n [env name] python==3.6.9 <h3> 
 
-1.use conda create -n [env name] python==3.6.9
 2.conda activate [env name]
 3.pip install -r requirements.txt
 4.download the frozen graph at this URL: https://drive.google.com/file/d/1lwHGhEwRo0c8aBrTgXtvBJ_rFSDEo-at/view?usp=sharing
