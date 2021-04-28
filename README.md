@@ -7,12 +7,19 @@ Fully Convolutional Neural Network to localize the text in a image using EAST Re
 
 
 ### 1.use conda create -n [env name] python==3.6.9 <h3> 
+### 2.conda activate [env name]<h3> 
+### 3.pip install -r requirements.txt python==3.6.9 <h3> 
+### 4.download the frozen graph at this URL: https://drive.google.com/file/d/1lwHGhEwRo0c8aBrTgXtvBJ_rFSDEo-at/view?usp=sharing<h3> 
+### 5.Place the frozen graph in the root directory <h3> 
+### 6.place some sample images in the root directory<h3> 
+### 7.navigate to root folder and execute bbox_text.py<h3> 
 
-2.conda activate [env name]
-3.pip install -r requirements.txt
-4.download the frozen graph at this URL: https://drive.google.com/file/d/1lwHGhEwRo0c8aBrTgXtvBJ_rFSDEo-at/view?usp=sharing
-5.Place the frozen graph in the root directory
-6.place some sample images in the root directory
-7.navigate to root folder and execute bbox_text.py
+
 
 # In order to see the architecture of the model you can see frozen_east_text_detection.png in github <h1> 
+  
+  ![Capture1](https://user-images.githubusercontent.com/74713842/116363283-978dbb00-a820-11eb-8e22-9bf1edf14768.PNG)
+
+# Here is one of the sample output <h1> 
+  ![sample](https://user-images.githubusercontent.com/74713842/116363510-d459b200-a820-11eb-92da-2c460fb79bfb.png)
+![sample_text](https://user-images.githubusercontent.com/74713842/116363529-d91e6600-a820-11eb-8ee2-bf2628d0c05e.jpg)
