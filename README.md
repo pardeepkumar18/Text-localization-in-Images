@@ -26,3 +26,11 @@ Fully Convolutional Neural Network to localize the text in a image using EAST Re
 # Here is one of the sample output <h1> 
   ![sample](https://user-images.githubusercontent.com/74713842/116363510-d459b200-a820-11eb-92da-2c460fb79bfb.png)
 ![sample_text](https://user-images.githubusercontent.com/74713842/116363529-d91e6600-a820-11eb-8ee2-bf2628d0c05e.jpg)
+
+
+# Number Plate Recognition <h1> 
+### navigate to root folder and execute noplate_ocr.py<h3> 
+# Here are some of the sample Ouputs <h1> 
+  
+  ![board_text](https://user-images.githubusercontent.com/74713842/116520612-94fa9680-a8f0-11eb-981e-402037f46d13.jpg)
+![car5_text](https://user-images.githubusercontent.com/74713842/116520663-a2178580-a8f0-11eb-8cf7-b13db0ba8f37.jpg)
