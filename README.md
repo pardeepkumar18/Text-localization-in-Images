@@ -11,7 +11,7 @@ Fully Convolutional Neural Network to localize the text in a image using EAST Re
 
 ### 1.use conda create -n [env name] python==3.6.9 <h3> 
 ### 2.conda activate [env name]<h3> 
-### 3.pip install -r requirements.txt python==3.6.9 <h3> 
+### 3.pip install -r requirements.txt  <h3> 
 ### 4.download the frozen graph at this URL: https://drive.google.com/file/d/1lwHGhEwRo0c8aBrTgXtvBJ_rFSDEo-at/view?usp=sharing<h3> 
 ### 5.Place the frozen graph in the root directory <h3> 
 ### 6.place some sample images in the root directory<h3> 
