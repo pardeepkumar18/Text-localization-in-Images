@@ -4,6 +4,20 @@
 
 Fully Convolutional Neural Network to localize the text in a image using EAST Research paper
 ![EAST_paper_main_blocks](https://user-images.githubusercontent.com/74713842/116355405-6eb4f800-a817-11eb-8f49-b5c12cb04da3.PNG)
+
+# UPDATE in TEXT Localization <h1> 
+  
+  ### I have uploaded updated code which is localizing even text with some rotation, file name is modified_detector.py <h3>
+  
+  
+  ### Here is the sample output <h3>
+  ![car_rot](https://user-images.githubusercontent.com/74713842/116805208-7ee41480-ab42-11eb-8a75-abbb8974a709.jpg)
+![previous_car_rot](https://user-images.githubusercontent.com/74713842/116805210-85728c00-ab42-11eb-91ec-5df34e6ca264.jpg)
+![modified_Car_rot](https://user-images.githubusercontent.com/74713842/116805213-8a374000-ab42-11eb-8c1f-612e4596c92f.jpg)
+
+  
+  
+
 # Installation guide <h1> 
 
 # In order to use bbox_text.py or noplate_ocr.py file you need to create the Environment <h1> 
